@@ -1,6 +1,6 @@
 # PyBer Analysis
 
-## Overview of the Project
+## Overview of the Analysis
 
 Overview of the analysis: Explain the purpose of the new analysis.
 The purpose of the new analysis is well defined. (3 pt)
